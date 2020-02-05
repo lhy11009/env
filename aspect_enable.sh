@@ -5,3 +5,5 @@ export Aspect_DIR="$HOME/softwares/aspect/build"
 
 export PATH="$PATH:$HOME/Desktop/ASPECT_PROJECT/files"
 
+export PATH="$PATH:$HOME/ASPECT_PROJECT/files"
+
